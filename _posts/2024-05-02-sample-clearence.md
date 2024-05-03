@@ -11,7 +11,7 @@ Nowadays it's pretty rare to find music that does not contain a sample. Everyone
 ## My Solution
 The simple way to get around this issue is through scripting. Below is a simple script using python that will currently download from Spotify, Instagram, and Youtube. It has an easy to use CLI and with the library I used (click) it's easily customizable to meet your needs. It has a bunch of dependencies which I tried to avoid, but I do not have time to make everything from scratch, also I am not fluent in python.
 
-It's far from perfect and legit does not have any error handling whatsoever, but it get's the job done.
+Tt is far from perfect and legit does not have any error handling whatsoever, but it get's the job done.
 
 ## Depedencies
 - instaloader
