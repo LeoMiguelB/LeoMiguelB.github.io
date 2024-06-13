@@ -256,6 +256,7 @@ GEM
     unf_ext (0.0.9.1)
     unicode-display_width (1.8.0)
     uri (0.13.0)
+    webrick (1.8.1)
 
 PLATFORMS
   x86_64-linux
@@ -264,10 +265,12 @@ DEPENDENCIES
   github-pages (~> 231)
   jekyll (~> 3.9.0)
   jekyll-feed (~> 0.6)
+  jekyll-remote-theme
   kramdown-parser-gfm
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.3.5
