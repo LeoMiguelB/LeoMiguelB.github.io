@@ -1,8 +1,8 @@
-___
-layout: post
-title: "Minimum Working Tmux"
-date: 2024-06-16 12:06:00 -04:00
-___
+---
+title:  "Minimum Working Tmux"
+date:    2024-06-16 12:06:00 -04:00
+published: true
+---
 
 ## Intro
 Today I will show you how to get started with Tmux - a terminal multiplexer. I am no expert but I believe the following steps if followed correctly will yield a minimal working workflow for tmux. Let delve into it.
