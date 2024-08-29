@@ -2,7 +2,7 @@
 layout: post
 title:  "My AI usage"
 date:   2024-06-12 21:46:34 -04:00
-published: true
+published: false
 ---
 
 AI hype feels like an analogy to moore's law at this point. Its publicity grew exponentially; it used to be popular research now it's a mass scale product, with LLM's being at the forefront of it all. These models are so powerful it was able to effectively run in parallel within a makeshift org [CHATDEV](https://www.businessinsider.com/ai-builds-software-under-7-minutes-less-than-dollar-study-2023-9?r=US&IR=T) and engineer it's own [production-grade](https://www.linkedin.com/pulse/crafting-production-grade-application-best-practices-insights-amit#:~:text=A%20production%2Dgrade%20application%20is,can%20handle%20lots%20of%20users.) application within 7 minutes. It's empathy towards humans make it the best candidate that can replace real human customer support as was evident with how amazon engineers leveraged this [fact](https://www.businessinsider.com/chatgpt-amazon-employees-use-ai-chatbot-software-coding-customer-questions-2023-1). All jokes aside, AI has come along way but it still has a long way to go. It still hallucinates, and it's reasoning capabailities is no better than a toddler's. It basically solves problems that have already been solved and posted online. Might be a bad take, but if your using ChatGPT because you can't figure out how a tech stack works then it's just bad googling skills.
